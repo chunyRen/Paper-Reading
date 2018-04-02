@@ -1,0 +1,2 @@
+Adversarial feature learning
+BiGAN:在传统GAN模型的基础上加入了一个解码器，通过E(encoder)、D、G三者的学习学得对于输入图片的特征表示
